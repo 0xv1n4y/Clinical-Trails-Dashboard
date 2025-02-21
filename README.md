@@ -1,6 +1,5 @@
 # Clinical Trial Application Management System
 
-$ Overview
  This project involves the development of a Clinical Trial Application Management System that allows users to submit, view, and manage applications for regulatory and academic clinical trials. The system is designed to handle complex forms and store the data in a structured manner across multiple tables in a database.
 
  The system provides a user-friendly interface with a drawer-based navigation system, allowing users to scroll through different sections of the form. The data is displayed using Mantine Table, a modern and flexible component for data visualization. Users can also delete existing applications as needed.
