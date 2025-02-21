@@ -1,0 +1,125 @@
+{
+    "administrativeDetails": {
+      "principalInvestigatorName": "",
+      "department": "",
+      "submissionDate": "",
+      "reviewType": "",
+      "studyTitle": "",
+      "protocolNumber": "",
+      "versionNumber": "",
+      "protocolDate": ""
+    },
+    "investigators": {
+      "name": "",
+      "designation": "",
+      "qualification": "",
+      "department": "",
+      "address": "",
+      "contact": ""
+    },
+    "participants": {
+      "participantType": "",
+      "vulnerableJustification": "",
+      "safeguards": "",
+      "reimbursementDetails": ""
+    },
+    "benefitsRisks": {
+      "anticipatedRisks": "",
+      "riskManagement": "",
+      "participantBenefits": "",
+      "advertisementDetails": "",
+      "societyBenfit": "",
+      "scienceBenfit": ""
+    },
+    "paymentCompensation": {
+      "injuryTreatment": "",
+      "saeCompensation": "",
+      "regulatoryApprovals": ""
+    },
+    "storageConfidentiality": {
+      "documentControl": "",
+      "drugDeviceControl": ""
+    },
+    "checklist": {
+      "items": [
+        {
+          "id": 1,
+          "name": "Cover letter",
+          "status": "",
+          "enclosureNo": "",
+          "remarks": ""
+        },
+        {
+          "id": 2,
+          "name": "Brief CV of all Investigators - Updated, signed and dated",
+          "status": "",
+          "enclosureNo": "",
+          "remarks": ""
+        },
+        {
+          "id": 3,
+          "name": "Good Clinical Practice (GCP) training of investigators in last 3 years",
+          "status": "",
+          "enclosureNo": "",
+          "remarks": ""
+        },
+        {
+          "id": 4,
+          "name": "EC clearance of other centers",
+          "status": "",
+          "enclosureNo": "",
+          "remarks": ""
+        },
+        {
+          "id": 5,
+          "name": "Agreement between collaborating partners",
+          "status": "",
+          "enclosureNo": "",
+          "remarks": ""
+        },
+        {
+          "id": 6,
+          "name": "MTA between collaborating partners",
+          "status": "",
+          "enclosureNo": "",
+          "remarks": ""
+        },
+        {
+          "id": 7,
+          "name": "Insurance policy / certificate",
+          "status": "",
+          "enclosureNo": "",
+          "remarks": ""
+        },
+        {
+          "id": 8,
+          "name": "Copy of CTA signed with the sponsor",
+          "status": "",
+          "enclosureNo": "",
+          "remarks": ""
+        },
+        {
+          "id": 9,
+          "name": "Provide all significant previous decisions...",
+          "status": "",
+          "enclosureNo": "",
+          "remarks": ""
+        },
+        {
+          "id": 10,
+          "name": "Copy of the detailed protocol and synopsis",
+          "status": "",
+          "enclosureNo": "",
+          "remarks": ""
+        },
+        {
+          "id": 11,
+          "name": "Investigators Brochure",
+          "status": "",
+          "enclosureNo": "",
+          "remarks": ""
+        }
+      ]
+    }
+  }
+  
